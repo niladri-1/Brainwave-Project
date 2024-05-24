@@ -9,7 +9,7 @@
 7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+If You prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 
 ## <a name="introduction">🤖 Introduction</a>
