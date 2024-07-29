@@ -52,7 +52,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/niladri-1/Modern-UI-UX-Website.git
+git clone https://github.com/niladri-1/Brainwave-Project.git
 cd brainwave
 ```
 
